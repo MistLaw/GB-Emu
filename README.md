@@ -81,3 +81,9 @@ During development, I relied on a combination of documentation and opcode refere
 
 - **[Pan Docs](https://gbdev.io/pandocs/)**  
   Helped with general knowledge of the Game Boy’s quirks and specific hardware behaviors. This resource was especially useful for understanding memory, PPU, and peripheral interactions.
+
+- **[Bootix DMG Boot ROM](https://github.com/Ashiepaws/Bootix)**  
+  A copyright free DMG boot ROM.
+
+- **[Blargg’s Test ROMs](https://github.com/retrio/gb-test-roms)**  
+  A set of test ROMs used to verify CPU instruction execution and timing accuracy. These were essential for debugging and ensuring correct emulation.
