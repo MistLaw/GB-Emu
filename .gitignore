@@ -1,0 +1,42 @@
+# Visual Studio / Rider / JetBrains
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+
+# Build results
+bin/
+obj/
+out/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# ASP.NET / IIS
+App_Data/
+
+# OS files
+*.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# DotNet Core
+*.dotCover
+*.dotTrace
+*.dotMemory
+
+# User-specific files
+*.userprefs
